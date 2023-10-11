@@ -39,6 +39,7 @@ More in on this in the link prior (with an example illustrating the issue), and 
 - [FreeCAD Wiki - Tutorials](https://wiki.freecad.org/Tutorials) 
   - I mean they are tutorials that FreeCAD themselves have listed, so they are generally nice to look at.
 - [Assembly 4 Workbench](https://github.com/Zolko-123/FreeCAD_Assembly4/tree/master/Examples)
+  - [The tutorials where moved here](https://github.com/Zolko-123/FreeCAD_Examples/tree/master), but this now includes a few more then before
   - Some examples on how to use the workbench from the creator of the Workbench themselves, so.... :ok_hand:
 <!-- - []() 
 - []()  -->
