@@ -63,16 +63,13 @@ Also KiCad 6 and KiCad 7 aren't that different so tutorial about either are more
 - []()
 
 ### Text
-
+- [Another KiCad Tutorial - ATSAMD10-based Dev-Board](https://github.com/MalphasWats/hawk#readme)
+	- This tutorial is entirely on GitHub in text. You follow all the necessary steps to get a working board. As a disclaimer, the KiCad version from 3-4 years ago is not the same as the KiCad version now. The skills are generally transferable. In my experience, the only major change was in how footprints/symbols are imported into KiCad. UI-wise, most functionality has remained untouched. Please use the latest version of KiCad.
 - [Digikey - KiCad Beginners Guide](https://www.digikey.co.uk/en/maker/projects/beginners-guide-to-kicad/eb0ae92f5dae49e489f02c10f3edfc60)
   - **Rob**; not used it myself, but Digikey are generally a source that I trust so it's here as an option
-- 
 
 ## Programming
 
 Generally some good programming tutorial here (not necessarily hardware focused but can be)
 
-- []()
-- []()
-- []()
-- []()
+- 👷️ Work In Progress
