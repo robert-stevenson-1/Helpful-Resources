@@ -14,6 +14,10 @@ A place for various helpful resources that are collected by others to share with
     - [Text](#text-1)
   - [Programming](#programming)
 
+## Web tools
+
+- [Color Thesaurus](https://colorthesaurus.epfl.ch/) - great for looking up information about colours needed in webdev or any other programming task (particularly for RGB)
+
 ## CAD
 
 Specific or General CAD resources can go here.
