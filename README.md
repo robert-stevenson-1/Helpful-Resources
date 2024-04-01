@@ -14,8 +14,11 @@ A place for various helpful resources that are collected by others to share with
     - [Text](#text-1)
   - [Programming](#programming)
 
-## Web tools
 
+## Tools
+Collection of tools or software that I've found and like.
+
+- [atuin](https://github.com/atuinsh/atuin) - Just a nicer way to look through previous terminal command really...
 - [Color Thesaurus](https://colorthesaurus.epfl.ch/) - great for looking up information about colours needed in webdev or any other programming task (particularly for RGB)
 
 ## CAD
